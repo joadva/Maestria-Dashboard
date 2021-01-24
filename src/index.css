@@ -1,0 +1,23 @@
+
+.sidebar {
+    /*display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    padding: 0;
+    color: #fff;*/
+    background: #052c3d !important;
+}
+
+.sidebar .nav-link.active {
+    color: #fff;
+    background: #052c3d !important;
+}
+
+.sidebar .sidebar-minimizer {
+    /*position: fixed;
+    bottom: 0;
+    width: 50px;
+    height: 50px;*/
+    background-color: #052c3d !important;
+}
